@@ -1,0 +1,14 @@
+D:\Education\Magistratura\2 семестр\тех. гиб. суперкомп. выч\MatrixCalc\MatrixCalc\bin\Debug\MatrixCalc.exe.config
+D:\Education\Magistratura\2 семестр\тех. гиб. суперкомп. выч\MatrixCalc\MatrixCalc\bin\Debug\MatrixCalc.exe
+D:\Education\Magistratura\2 семестр\тех. гиб. суперкомп. выч\MatrixCalc\MatrixCalc\bin\Debug\MatrixCalc.pdb
+D:\Education\Magistratura\2 семестр\тех. гиб. суперкомп. выч\MatrixCalc\MatrixCalc\bin\Debug\MathNet.Numerics.dll
+D:\Education\Magistratura\2 семестр\тех. гиб. суперкомп. выч\MatrixCalc\MatrixCalc\bin\Debug\MathNet.Numerics.xml
+D:\Education\Magistratura\2 семестр\тех. гиб. суперкомп. выч\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.csproj.AssemblyReference.cache
+D:\Education\Magistratura\2 семестр\тех. гиб. суперкомп. выч\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.csproj.SuggestedBindingRedirects.cache
+D:\Education\Magistratura\2 семестр\тех. гиб. суперкомп. выч\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.Form1.resources
+D:\Education\Magistratura\2 семестр\тех. гиб. суперкомп. выч\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.Properties.Resources.resources
+D:\Education\Magistratura\2 семестр\тех. гиб. суперкомп. выч\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.csproj.GenerateResource.cache
+D:\Education\Magistratura\2 семестр\тех. гиб. суперкомп. выч\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.csproj.CoreCompileInputs.cache
+D:\Education\Magistratura\2 семестр\тех. гиб. суперкомп. выч\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.csproj.CopyComplete
+D:\Education\Magistratura\2 семестр\тех. гиб. суперкомп. выч\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.exe
+D:\Education\Magistratura\2 семестр\тех. гиб. суперкомп. выч\MatrixCalc\MatrixCalc\obj\Debug\MatrixCalc.pdb

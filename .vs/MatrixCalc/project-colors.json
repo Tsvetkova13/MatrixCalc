@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46c5be66-ec32-4813-b667-c7c346397e2e": {
+      "ProjectGuid": "46c5be66-ec32-4813-b667-c7c346397e2e",
+      "DisplayName": "MatrixCalc",
+      "ColorIndex": 0
+    },
+    "f4b2748f-e228-432d-95b4-80697eb14053": {
+      "ProjectGuid": "f4b2748f-e228-432d-95b4-80697eb14053",
+      "DisplayName": "MatrixTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
